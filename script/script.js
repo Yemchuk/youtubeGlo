@@ -152,8 +152,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   //API
   {
-    const API_KEY = 'AIzaSyDFnjdYOaAIY-GlkaU3Ek8vGQiOYNveYwA';
-    const CLIENT_ID = '819122894239-e3ffjm83fg7imsed1b0fs4prqbpl5c3d.apps.googleusercontent.com';
+    const API_KEY = 'API_KEY';
+    const CLIENT_ID = 'CLIENT_ID';
     //authorization
     {
       const buttonAuth = document.getElementById('authorize');
